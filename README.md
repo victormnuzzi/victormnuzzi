@@ -26,6 +26,6 @@ Eae,
 <div align='center'>
     <h2>Minhas contribuições</h2>
     <br>
-    <img alt="Cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/victormnuzzi/victormnuzziuotput/github-contribution-grid-snake.svg" />
+     <img alt="Cobrinha comendo as minhas contribuições" src="https://raw.githubusercontent.com/victormnuzzi/victormnuzzi/output/github-contribution-grid-snake.svg" />
 
 </div>
