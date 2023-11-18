@@ -22,10 +22,3 @@ Eae,
 ![JavaScript]( 	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![]()
-
-<div align='center'>
-    <h2>Minhas contribuições</h2>
-    <br>
-     <img alt="Cobrinha comendo as minhas contribuições" src="https://raw.githubusercontent.com/victormnuzzi/victormnuzzi/output/github-contribution-grid-snake.svg" />
-
-</div>
