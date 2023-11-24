@@ -1,6 +1,7 @@
-# Victor Nuzzi
+# Victor Marcondes Nuzzi
 
-Eae, 
+Opa, tudo bem?
+
 - Engenharia de Software - FIAP (2/8)
 
 ---
