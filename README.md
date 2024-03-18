@@ -2,7 +2,7 @@
 
 Opa, tudo bem?
 
-- Engenharia de Software - FIAP (2/8)
+- Engenharia de Software - FIAP (3/8)
 
 ---
 
@@ -22,4 +22,4 @@ Opa, tudo bem?
 ![CSS3]( 	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript]( 	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![]()
+![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
